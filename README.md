@@ -285,3 +285,4 @@ public function test_if_seeder_works()
 
 # Credits due where credits due…
 Thanks to [Laravel](https://laravel.com/) for giving me the opportunity to make this tutorial on [Testing](https://laravel.com/docs/8.x/testing#introduction).
+"# laravel_testing" 

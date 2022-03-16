@@ -43,7 +43,7 @@ jobs:
       - run:
           name: "Generate App key"
           command: php artisan key:generate
-
+      #pon
       # run tests with phpunit
       - run:
           name: "Run Unit Tests"
